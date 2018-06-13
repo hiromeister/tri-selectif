@@ -1,16 +1,20 @@
 # Tri séléctif
 
-## To  do
+## Diagrammes:
+- [x] Créer le diagramme de cas d'utilisation 
+- [x] Créer le diagramme de classe
+- [x] Créer le diagramme séquence / activité
 
-### Diagrammes et wireframe:
-- [ ] Créer le diagramme de cas d'utilisation 
-- [ ] Créer le diagramme de classe
-- [ ] Créer le diagramme séquence / activité
-- [ ] Créer le wireframe desktop
-- [ ] Créer le wireframe mobile
+### Diagramme de cas d'utilisation :
+![Use case](./readme/img/use-case.png "Logo Title Text 1")
 
-### Projet :
-#### Initialiser le repo:
-- [ ] Installer les dépendances
-- [ ]  Mise en place ESlint
-- [ ]  Configurer VSCode
+### Diagramme de séquence
+![Séquence](./readme/img/sequence.png "Logo Title Text 1")
+
+### Diagramme d'activité
+![Activity](./readme/img/activity.png "Logo Title Text 1")
+
+### Diagramme de classe 
+![Activity](./readme/img/class.png "Logo Title Text 1")
+
+
