@@ -1,0 +1,96 @@
+{
+    "bean": [
+        {
+            "id": 1,
+            "name": "Poubelle jaune",
+            "type": 1
+        },
+        {
+            "id": 2,
+            "name": "Poubelle verte",
+            "type": 2
+        },
+        {
+            "id": 3,
+            "name": "Poubelle bleu",
+            "type": 3
+        },
+        {
+            "id": 4,
+            "name": "Poubelle ordinaire",
+            "type": 4
+        }
+    ],
+    "garbage": [
+        {
+            "id": 1,
+            "name": "Bouteille Edena",
+            "type": 1,
+            "assignedTo": "",
+            "img": "http://reduction.ecoemballages.fr/uploads/tx_eedeclaration/3120_506ee5cdae886_edena_50cl.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Gel douche AXE",
+            "type": 1,
+            "assignedTo": "",
+            "img": "https://www.auchandirect.fr/backend/media/products_images/0N_12015.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Bouteille dodo",
+            "type": 2,
+            "assignedTo": "",
+            "img": "https://img.saveur-biere.com/img/p/1088-20157-v4_product_img.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Pot de yaourt ",
+            "type": 4,
+            "assignedTo": "",
+            "img": "https://www.auchandirect.fr/backend/media/products_images/0N_122824.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Le Quotidien",
+            "type": 3,
+            "assignedTo": "",
+            "img": "http://ecobeaute.unblog.fr/files/2011/06/newspaper.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Le jir",
+            "type": 3,
+            "assignedTo": "",
+            "img": "https://static.grands-meres.net/wp-content/uploads/2016/01/papier-journal.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Bouteille d'huile",
+            "type": 2,
+            "assignedTo": "",
+            "img": "https://www.auchandirect.fr/backend/media/products_images/0N_1411.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Pot de confiture",
+            "type": 2,
+            "assignedTo": "",
+            "img": "http://www.boutique-poubeau.fr/3959-large_default/petit-pot-de-confiture-de-fraises-individuel-15-x-30gr.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Mousse à raser ",
+            "type": 1,
+            "assignedTo": "",
+            "img": "https://i2.cdscdn.com/pdt2/0/0/7/1/700x700/las3600550187007/rw/mennen-mousse-a-raser-pro-tech-systeme-250-ml.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Bouteille d'eau cilaos",
+            "type": 1,
+            "assignedTo": "",
+            "img": "http://mastergroup-communication.com/wp-content/uploads/2016/04/CILAOS_BOUTEILLE_DEF.jpg"
+        }
+    ]
+}
